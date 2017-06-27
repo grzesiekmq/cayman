@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Cel aplikacji  
 # Opis  
 # Autorzy  
